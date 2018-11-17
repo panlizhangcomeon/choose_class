@@ -1,5 +1,5 @@
 choose_class
-原生PHP实现学生选课
+原生PHP实现学生选课,使用phpmyaqmin 或 phpadminer 执行 localhost.sql 即可导入数据库 
 
 有老师和课程的数据表存储，不需要界面实现录入，预插入部分数据即可
 
